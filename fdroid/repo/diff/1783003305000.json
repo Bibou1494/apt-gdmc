@@ -1,0 +1,1 @@
+{"repo": {"address": "https://apt-gdmc.ddns.net/repo", "mirrors": [{"isPrimary": true, "url": "https://apt-gdmc.ddns.net/repo"}, {"url": "https://raw.githubusercontent.com/Bibou1494/apt-gdmc/master/fdroid/repo"}], "webBaseUrl": "https://apt-gdmc.ddns.net/packages/", "timestamp": 1784557902000}, "packages": {"sh.ppy.osulazer": null}}
